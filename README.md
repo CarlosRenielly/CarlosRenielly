@@ -9,7 +9,7 @@
 
 ## 🔖 Sobre mim
 Minha história entrando na programação é rápida, eu diria. E se resume em: ***paixão***. Comecei minhas primeiras linhas de código no HTML# aos 28 anos, tendo minhas primeiras aulas de logica de programação na faculdade. Me apaixonei.  
-> Hoje, quase tudo que aprendo advém de uma sede insaciavél de aprender. Atualmente, desenvolvo majoritariamente voltado à tecnologias de Front-end, mas em um futuro não tão distante serei Fullstack.
+> Hoje, quase tudo que aprendo advém de uma sede insaciavél de aprender. Atualmente, meu desenvolvimento está voltado à tecnologias de Front-end, mas em um futuro não tão distante serei Fullstack.
 
 - 🔥 Desenvolvedor Frontend jr
 - 🎯 Objetivo profissional: ser relevante na área de tecnologia, assim como ser capaz de gerenciar grandes equipes, dominar com excelência o JavaScript, e ser referência para outros desenvolvedores.
