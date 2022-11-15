@@ -85,4 +85,3 @@ MUITO OBRIGADO
 <h3>Informações (quase) irrelevantes 🌟</h3>
   1. Meus animes favoritos são: Naruto, Boruto, DeathNote<br>
   2. Sou viciado em jogar Overwatch<br>
-  3. Planejo, e vou, viajar o mundo 🌎<br>
